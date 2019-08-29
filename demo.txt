@@ -1,5 +1,17 @@
-this is the first demo file
+this is the first demo filedemo.txt
+
+checked if the file is in the git mode using init   --git init
+
+created file in the WC   --cat > demo.txt
+added file to the git   --git add .
+committed file to the LR      --git commit -m "message" demo.txt
+
+cloning the git remote repo with the local repo   --git clone "URL"
+
+created a repo in the remote location  
+
+pushed the files form the LR to the remote repo  --git push origin master
 currently in the remote repo
 need to push to the local repo...
 
-pulled successfully from the remote repo..:.
+pulled successfully from the remote repo.     --git pull origin master
